@@ -54,22 +54,17 @@ There are 220 columns with missing values.
 The median (50th percentile) size rank is approximately 46106, indicating the middle-sized zip code in the dataset.
 **The median housing sales value across all zip codes ranges from around USD11,300 to USD 3,849,600.**
 The mean (average) housing sales value across all zip codes ranges from approximately *USD 118,299 to USD 288,039*.
-We performed univariate and bivariate analysis
-#### Univariate analysis 
-A comparison of the location to the median price
+![download](https://github.com/WatiriVivian/Phase4_project/assets/118829983/1da11bcd-eb9b-4ae0-8f49-e47c76b62dc3)
+The District of Columbia (DC) leads with the highest average of Annualized ROI. There is a noticeable variance in average ROI across states, with some states having ROIs above 5% and others below 3%.
 
-![download](https://github.com/WatiriVivian/Phase4_project/assets/118829983/a7755457-3562-485a-9fea-5f73ee54d974)
+![download](https://github.com/WatiriVivian/Phase4_project/assets/118829983/0549dc3b-9788-46c7-8cc8-283b27d76148)
 
-#### bivariate analysis
-A comparison of both the ROI and the CV for different locations
-![download](https://github.com/WatiriVivian/Phase4_project/assets/118829983/2688159d-4560-4b1e-915c-374c9d3ad11f)
+A visualisation of the 5 ROI that we chose
 
 # Modeling, Forecasting, and Conclusion
 The exploration of the Zillow dataset through time series modeling revealed valuable insights into housing price trends and seasonality. Utilizing SARIMA, the project effectively captured data patterns, generating accurate forecasts.
 
 Key Takeaways:
-
-* Visualization: The histogram depicting April 2018's median home prices in New York offered a snapshot of price distribution, aiding potential investors in decision-making.
 
 * Decomposition: Data decomposition highlighted patterns in seasonality, trend, and residual components, forming the basis for robust forecasting models.
 
