@@ -71,9 +71,7 @@ Key Takeaways:
 * Model Performance: Low Mean Squared Error (MSE) values, such as 1.5479, 1.7155, and 2.0511, demonstrated the SARIMA model's effectiveness in comparison to test data.
 
 * Forecasting: The model's predictions and confidence intervals provided investors with future insights, facilitating an understanding of market dynamics.
-
-In Conclusion, the SARIMA-driven exploration of the Zillow dataset empowered decision-making in the housing market. Insights, supported by performance metrics, highlight the potential of data-driven methodologies for strategic choices.
-
+Based on our model assumptions, the selected zipcode will continue to experience an annualised ROI of about 14% which should lead to significant growth in their investments
 
 # Recommendations
 
